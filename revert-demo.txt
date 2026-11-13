@@ -1,2 +1,0 @@
-Project : Learning Git
-Status : Active
