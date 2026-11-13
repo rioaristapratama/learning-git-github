@@ -1,3 +1,3 @@
 # Project Status
 
-Status : Draft
+Status : Published
