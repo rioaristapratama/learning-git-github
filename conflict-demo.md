@@ -1,3 +1,3 @@
 # Project Status
 
-Status : Reviewed
+Status : Reviewed and Published
